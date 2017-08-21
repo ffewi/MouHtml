@@ -54,13 +54,13 @@ else open(os.path.join(ipp, pf), 'wb').write(by)
 
 ## <span id = "install_package_control">即时编辑预览效果</span>
 <center>**左sumlime编辑界面，右Chrome页面预览。**</center>
-![即时预览](../pic/md/markdown_preview_pic.png "即时预览截图")
+![即时预览](https://raw.githubusercontent.com/ffewi/MouHtml/master/pic/md/markdown_preview_pic.png "即时预览截图")
 
 
 <!-- 语言代码高亮js片段 -->
 <link rel="stylesheet" href="../css/light.css">
-<script src="../js/light.min.js"></script>  
-<script >hljs.initHighlightingOnLoad();</script>
+<script src="../js/light.min.js"></script>
+<script type="text/javascript" >hljs.initHighlightingOnLoad();</script>
 
-<center>[![GitHubLogo](../pic/github/GitHub-Mark-32px.png)](https://github.com/ffewi/MouHtml?raw=true "My GitHub")</center>
+<center>[![GitHubLogo](../pic/github/GitHub-Mark-32px.png)](https://github.com/ffewi/MouHtml "My GitHub")</center>
 
