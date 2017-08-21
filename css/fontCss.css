@@ -1,0 +1,24 @@
+/*小米官网*/
+.xiaomi{
+	font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+}
+/*淘宝技术研发中心*/
+.taobaotc{
+	font: 12px/1.5 Tahoma,Helvetica,Arial,'宋体',sans-serif;
+}
+/*加网*/
+.jiawang{
+	font: 14px/1.5 'Microsoft YaHei',arial,tahoma,\5b8b\4f53,sans-serif;
+}
+/*淘宝UED*/
+.taobaoued{
+	font: 12px/1 Tahoma,Helvetica,Arial,"\5b8b\4f53",sans-serif;
+}
+/*一淘UX*/
+.yitaoux{
+	font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+	font: 12px/1 Tahoma,Helvetica,Arial,"\5b8b\4f53",sans-serif;
+}
+.myself{
+	font:16px/1 'FangSong','仿宋',sans-serif;
+}
