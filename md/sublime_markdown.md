@@ -62,5 +62,5 @@ else open(os.path.join(ipp, pf), 'wb').write(by)
 <script src="../js/light.min.js"></script>  
 <script >hljs.initHighlightingOnLoad();</script>
 
-<center>[![GitHub](../pic/github/GitHub-Mark-32px.png "My GitHub")](http://www.baidu.com)</center>
+<center>[![GitHubLogo](../pic/github/GitHub-Mark-32px.png)](https://github.com/ffewi/MouHtml?raw=true "My GitHub")</center>
 
